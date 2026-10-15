@@ -18,5 +18,6 @@ def main():
     score = float(input("Enter score: "))
     result = determine_score(score)
     print(result)
+
 main()
 
