@@ -14,12 +14,20 @@ def determine_score(score):
     else:
         result = "Bad"
     return result
+
+def det_prize(result):
+    if result =="Excellent":
+        return "You get a prize!"
+
 def main():
     score=random.randint(1,101)
     #score = float(input("Enter score: "))
     result = determine_score(score)
+    rr = det_prize(result)
     #print(f"User score {score} is {result}")
     print(f"Random:{score} = {result}")
+    print(rr)
+
 
 main()
 
