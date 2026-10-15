@@ -2,6 +2,7 @@
 CP1404/CP5632 - Practical
 Program to determine score status
 """
+import random
 
 def determine_score(score):
     if score < 0 or score > 100:
@@ -13,11 +14,12 @@ def determine_score(score):
     else:
         result = "Bad"
     return result
-
 def main():
-    score = float(input("Enter score: "))
+    score=random.randint(1,101)
+    #score = float(input("Enter score: "))
     result = determine_score(score)
-    print(result)
+    #print(f"User score {score} is {result}")
+    print(f"Random:{score} = {result}")
 
 main()
 
