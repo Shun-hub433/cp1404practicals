@@ -1,0 +1,158 @@
+$10.56
+On day 1 price is: $10.56
+$12.29
+On day 2 price is: $12.29
+$13.14
+On day 3 price is: $13.14
+$12.54
+On day 4 price is: $12.54
+$12.73
+On day 5 price is: $12.73
+$12.90
+On day 6 price is: $12.90
+$12.38
+On day 7 price is: $12.38
+$13.83
+On day 8 price is: $13.83
+$13.58
+On day 9 price is: $13.58
+$13.57
+On day 10 price is: $13.57
+$13.39
+On day 11 price is: $13.39
+$14.18
+On day 12 price is: $14.18
+$14.22
+On day 13 price is: $14.22
+$14.15
+On day 14 price is: $14.15
+$13.71
+On day 15 price is: $13.71
+$13.50
+On day 16 price is: $13.50
+$13.36
+On day 17 price is: $13.36
+$15.19
+On day 18 price is: $15.19
+$14.45
+On day 19 price is: $14.45
+$16.69
+On day 20 price is: $16.69
+$16.02
+On day 21 price is: $16.02
+$15.45
+On day 22 price is: $15.45
+$16.64
+On day 23 price is: $16.64
+$17.71
+On day 24 price is: $17.71
+$20.38
+On day 25 price is: $20.38
+$22.02
+On day 26 price is: $22.02
+$20.96
+On day 27 price is: $20.96
+$22.87
+On day 28 price is: $22.87
+$26.28
+On day 29 price is: $26.28
+$28.06
+On day 30 price is: $28.06
+$27.65
+On day 31 price is: $27.65
+$27.56
+On day 32 price is: $27.56
+$26.97
+On day 33 price is: $26.97
+$30.01
+On day 34 price is: $30.01
+$29.36
+On day 35 price is: $29.36
+$33.41
+On day 36 price is: $33.41
+$33.38
+On day 37 price is: $33.38
+$37.15
+On day 38 price is: $37.15
+$39.72
+On day 39 price is: $39.72
+$45.51
+On day 40 price is: $45.51
+$43.49
+On day 41 price is: $43.49
+$42.51
+On day 42 price is: $42.51
+$42.66
+On day 43 price is: $42.66
+$42.52
+On day 44 price is: $42.52
+$47.34
+On day 45 price is: $47.34
+$48.19
+On day 46 price is: $48.19
+$48.00
+On day 47 price is: $48.00
+$50.90
+On day 48 price is: $50.90
+$50.21
+On day 49 price is: $50.21
+$49.69
+On day 50 price is: $49.69
+$50.47
+On day 51 price is: $50.47
+$50.29
+On day 52 price is: $50.29
+$54.48
+On day 53 price is: $54.48
+$56.63
+On day 54 price is: $56.63
+$55.99
+On day 55 price is: $55.99
+$54.67
+On day 56 price is: $54.67
+$60.36
+On day 57 price is: $60.36
+$58.83
+On day 58 price is: $58.83
+$59.66
+On day 59 price is: $59.66
+$60.00
+On day 60 price is: $60.00
+$58.68
+On day 61 price is: $58.68
+$56.73
+On day 62 price is: $56.73
+$55.40
+On day 63 price is: $55.40
+$63.91
+On day 64 price is: $63.91
+$62.20
+On day 65 price is: $62.20
+$69.68
+On day 66 price is: $69.68
+$68.96
+On day 67 price is: $68.96
+$76.90
+On day 68 price is: $76.90
+$73.82
+On day 69 price is: $73.82
+$75.26
+On day 70 price is: $75.26
+$71.75
+On day 71 price is: $71.75
+$70.57
+On day 72 price is: $70.57
+$81.40
+On day 73 price is: $81.40
+$91.20
+On day 74 price is: $91.20
+$89.99
+On day 75 price is: $89.99
+$88.63
+On day 76 price is: $88.63
+$87.35
+On day 77 price is: $87.35
+$92.12
+On day 78 price is: $92.12
+$105.73
+On day 79 price is: $105.73
