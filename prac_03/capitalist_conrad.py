@@ -8,6 +8,8 @@ If the price rises above $1000, or falls below $0.01, the program should end.
 The price should be displayed to the nearest cent (e.g. $33.59, not $33.5918232901)
 """
 import random
+FILENAME = "output.txt"
+out_file = open(FILENAME, "w")
 
 MAX_INCREASE = 0.1  # 10%
 PRO_MAX_INCREASE = 0.175 #17%
@@ -39,4 +41,10 @@ while MIN_PRICE <= price <= MAX_PRICE:
     number_of_days +=1
     price *= (1 + price_change)
     #print(f"${price:,.2f}")
-    print(f"On day {number_of_days} price is: ${price:,.2f} ")
+    #print(f"On day {number_of_days} price is: ${price:,.2f} ")
+    print(f"${price:,.2f}", file=out_file)
+    print(f"On day {number_of_days} price is: ${price:,.2f}", file=out_file)
+out_file.close()
+
+
+
